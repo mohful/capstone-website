@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/capstone-website/static/js/main.e3da9811.js",
+    "static/media/logo.png": "/capstone-website/static/media/logo.0e232e3cd7475fc92bd7.png",
+    "index.html": "/capstone-website/index.html",
+    "main.e3da9811.js.map": "/capstone-website/static/js/main.e3da9811.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e3da9811.js"
+  ]
+}
